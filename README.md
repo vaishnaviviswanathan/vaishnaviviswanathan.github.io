@@ -1,2 +1,0 @@
-# vaishnaviviswanathan.github.io
-MyWebsite
